@@ -16,8 +16,7 @@ NOTE: Enter your country code first followed by your phone number wihout adding 
 
 3. After the script is run a html will be created in the same folder namely mylocation.html
 
-![image](https://user-images.githubusercontent.com/88844855/212465357-bdec2ddd-7fd7-4df6-9834-b690b99b9d18.png)
-
+![212465357-bdec2ddd-7fd7-4df6-9834-b690b99b9d18](https://user-images.githubusercontent.com/88844855/212466333-dc3f4a55-5843-45f0-8eab-b86723bdd464.png)
 
 4. Open the mylocation.html file on a browser of your choosing to see the location of your number.
 
