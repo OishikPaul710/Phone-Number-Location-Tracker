@@ -30,5 +30,6 @@ NOTE: Enter your country code first followed by your phone number wihout adding 
 
 
 
-![result](https://user-images.githubusercontent.com/88844855/212465731-fb015b17-a1ea-4cd0-b198-2c97f427ad5f.gif)
+![result (2)](https://user-images.githubusercontent.com/88844855/212554111-0cdae2a7-ba61-4fae-bdec-c840bfac0d75.gif)
+
 
